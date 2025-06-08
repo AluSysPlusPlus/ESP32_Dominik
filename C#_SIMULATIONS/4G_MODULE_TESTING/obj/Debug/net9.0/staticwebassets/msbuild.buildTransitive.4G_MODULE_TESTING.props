@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\4G_MODULE_TESTING.props" />
+</Project>

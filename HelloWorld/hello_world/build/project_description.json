@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "hello_world",
-    "project_version":    "b723cc0",
+    "project_version":    "7ac574f-dirty",
     "project_path":       "C:/Users/ALUSHI/Documents/GitHub/ESP32_Dominik/HelloWorld/hello_world",
     "idf_path":           "C:/Users/ALUSHI/esp/v5.4.1/esp-idf",
     "build_dir":          "C:/Users/ALUSHI/Documents/GitHub/ESP32_Dominik/HelloWorld/hello_world/build",

@@ -12,6 +12,11 @@
 #include "esp_chip_info.h"
 #include "esp_flash.h"
 #include "esp_system.h"
+#include "driver/uart.h"
+#include "esp_log.h"
+
+static const char* TAG = "SIM7670_UART"
+
 
 void app_main(void)
 {
